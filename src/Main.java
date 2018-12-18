@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Second commit");
 
         System.out.println("Changes on IDE");
+
+        System.out.println("Changes on GitHub");
     }
 }
